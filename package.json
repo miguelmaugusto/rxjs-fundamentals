@@ -45,7 +45,7 @@
     "express": "^4.17.1",
     "lodash": "^4.17.21",
     "markdown-it": "^12.2.0",
-    "rxjs": "^7.4.0"
+    "rxjs": "^7.8.0"
   },
   "source": [
     "index.html"
